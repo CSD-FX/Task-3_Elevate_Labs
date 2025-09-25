@@ -57,7 +57,7 @@ Step 3: Clone or Create Project Directory (Run on your terminal)
 ```
 * ⛔️ Change your local machine user name here:
      provider "docker" {
-     host = "unix:///Users/<⛔️Your_local_user_name warning⛔️ >/.colima/default/docker.sock" 
+     host = "unix:///Users/<⛔️Your_local_user_name⛔️ >/.colima/default/docker.sock" 
 --
 Step 4: Run Terraform Commands
 ```bash
